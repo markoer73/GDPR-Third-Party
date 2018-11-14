@@ -1,4 +1,4 @@
-GDPR and third-party and M&A activities
+# GDPR and third-party and M&A activities
 
 GDPR impact has been dissected and examined to death - however, M&A activities, as well as third-party security posture, can be greatly affected as well, and this aspect has not been very often pursued. This session hopes to be useful for that.
 
